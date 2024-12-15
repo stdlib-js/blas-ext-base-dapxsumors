@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-07)
+## Unreleased (2024-12-15)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`ff25e13`](https://github.com/stdlib-js/stdlib/commit/ff25e1324e1507cc076078e82badce7fdf7915f6) - **docs:** remove excess whitespace _(by Philipp Burckhardt)_
 -   [`1b5ac87`](https://github.com/stdlib-js/stdlib/commit/1b5ac87b89851e816807a61dd1ef29c5989b838b) - **refactor:** update `stride` handling and function documentation for `blas/ext/base/dapxsumors` [(#3247)](https://github.com/stdlib-js/stdlib/pull/3247) _(by Muhammad Haris)_
 -   [`a13603b`](https://github.com/stdlib-js/stdlib/commit/a13603b556defa762f7fe1d25fbfa3b621404f69) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dcusum` [(#2954)](https://github.com/stdlib-js/stdlib/pull/2954) _(by Muhammad Haris)_
 -   [`bc97fa9`](https://github.com/stdlib-js/stdlib/commit/bc97fa994dbd0e671613e9633a551cdae30fa621) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dapxsumors` [(#2934)](https://github.com/stdlib-js/stdlib/pull/2934) _(by Muhammad Haris, Athan Reines)_
