@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-23)
+## Unreleased (2025-01-15)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`5ef1f55`](https://github.com/stdlib-js/stdlib/commit/5ef1f55b06a5ba1c096eb0ad6b07287344266bec) - **docs:** update related packages sections [(#4757)](https://github.com/stdlib-js/stdlib/pull/4757) _(by stdlib-bot)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`ff25e13`](https://github.com/stdlib-js/stdlib/commit/ff25e1324e1507cc076078e82badce7fdf7915f6) - **docs:** remove excess whitespace _(by Philipp Burckhardt)_
 -   [`1b5ac87`](https://github.com/stdlib-js/stdlib/commit/1b5ac87b89851e816807a61dd1ef29c5989b838b) - **refactor:** update `stride` handling and function documentation for `blas/ext/base/dapxsumors` [(#3247)](https://github.com/stdlib-js/stdlib/pull/3247) _(by Muhammad Haris)_
