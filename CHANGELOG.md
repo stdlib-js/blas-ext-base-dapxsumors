@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-19)
+## Unreleased (2025-03-15)
 
 <section class="features">
 
 ### Features
 
+-   [`b2a770a`](https://github.com/stdlib-js/stdlib/commit/b2a770ac79d4b276e73184802ee0cf31956bf52c) - add `blas/ext/base/wasm/dapxsumors` [(#5644)](https://github.com/stdlib-js/stdlib/pull/5644)
 -   [`a13603b`](https://github.com/stdlib-js/stdlib/commit/a13603b556defa762f7fe1d25fbfa3b621404f69) - add C `ndarray` API and refactor `blas/ext/base/dcusum` [(#2954)](https://github.com/stdlib-js/stdlib/pull/2954)
 -   [`bc97fa9`](https://github.com/stdlib-js/stdlib/commit/bc97fa994dbd0e671613e9633a551cdae30fa621) - add C `ndarray` API and refactor `blas/ext/base/dapxsumors` [(#2934)](https://github.com/stdlib-js/stdlib/pull/2934)
 
@@ -17,12 +18,25 @@
 
 <!-- /.features -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5507](https://github.com/stdlib-js/stdlib/issues/5507)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`b2a770a`](https://github.com/stdlib-js/stdlib/commit/b2a770ac79d4b276e73184802ee0cf31956bf52c) - **feat:** add `blas/ext/base/wasm/dapxsumors` [(#5644)](https://github.com/stdlib-js/stdlib/pull/5644) _(by Aayush Khanna, Athan Reines)_
 -   [`8446185`](https://github.com/stdlib-js/stdlib/commit/8446185b02979b037363bf390bacddf937a83886) - **docs:** update related packages sections [(#5307)](https://github.com/stdlib-js/stdlib/pull/5307) _(by stdlib-bot)_
 -   [`5ef1f55`](https://github.com/stdlib-js/stdlib/commit/5ef1f55b06a5ba1c096eb0ad6b07287344266bec) - **docs:** update related packages sections [(#4757)](https://github.com/stdlib-js/stdlib/pull/4757) _(by stdlib-bot)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -45,8 +59,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
 -   Muhammad Haris
 -   Philipp Burckhardt
