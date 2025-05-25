@@ -46,6 +46,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`b729264`](https://github.com/stdlib-js/stdlib/commit/b729264841b1af47c4831a8b38ebe51882017381) - **bench:** fix package path _(by Athan Reines)_
 -   [`981c7ba`](https://github.com/stdlib-js/stdlib/commit/981c7baecfe6ab8ab4d973e95cd20453f90c5e28) - **fix:** add missing checks for `N` and address failing tests stemming from refactoring _(by Athan Reines)_
 -   [`d867410`](https://github.com/stdlib-js/stdlib/commit/d8674107448b38025095f40d288464a1bea3c349) - **refactor:** simplify implementation _(by Athan Reines)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
