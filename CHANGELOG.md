@@ -18,6 +18,16 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`981c7ba`](https://github.com/stdlib-js/stdlib/commit/981c7baecfe6ab8ab4d973e95cd20453f90c5e28) - add missing checks for `N` and address failing tests stemming from refactoring
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="issues">
 
 ### Closed Issues
@@ -36,6 +46,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`981c7ba`](https://github.com/stdlib-js/stdlib/commit/981c7baecfe6ab8ab4d973e95cd20453f90c5e28) - **fix:** add missing checks for `N` and address failing tests stemming from refactoring _(by Athan Reines)_
 -   [`d867410`](https://github.com/stdlib-js/stdlib/commit/d8674107448b38025095f40d288464a1bea3c349) - **refactor:** simplify implementation _(by Athan Reines)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`b2a770a`](https://github.com/stdlib-js/stdlib/commit/b2a770ac79d4b276e73184802ee0cf31956bf52c) - **feat:** add `blas/ext/base/wasm/dapxsumors` [(#5644)](https://github.com/stdlib-js/stdlib/pull/5644) _(by Aayush Khanna, Athan Reines)_
