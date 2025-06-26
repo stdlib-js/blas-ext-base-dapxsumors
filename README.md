@@ -287,7 +287,7 @@ int main( void ) {
     double v = stdlib_strided_dapxsumors( N, 5.0, x, strideX );
 
     // Print the result:
-    printf( "Sum: %lf\n", sum );
+    printf( "Sum: %lf\n", v );
 }
 ```
 
