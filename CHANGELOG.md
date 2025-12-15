@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-25)
+## Unreleased (2025-12-15)
 
 <section class="features">
 
@@ -46,6 +46,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`7b477a7`](https://github.com/stdlib-js/stdlib/commit/7b477a7ae70ae79841d3d792bc7d798733c854e4) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dapxsumors` [(#9004)](https://github.com/stdlib-js/stdlib/pull/9004) _(by Abhay Singh)_
 -   [`c221279`](https://github.com/stdlib-js/stdlib/commit/c2212790b0118b7787b5e292244b4364c08ea05a) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`b729264`](https://github.com/stdlib-js/stdlib/commit/b729264841b1af47c4831a8b38ebe51882017381) - **bench:** fix package path _(by Athan Reines)_
 -   [`981c7ba`](https://github.com/stdlib-js/stdlib/commit/981c7baecfe6ab8ab4d973e95cd20453f90c5e28) - **fix:** add missing checks for `N` and address failing tests stemming from refactoring _(by Athan Reines)_
@@ -74,9 +75,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Abhay Singh
 -   Athan Reines
 -   Muhammad Haris
 -   Philipp Burckhardt
